@@ -31,3 +31,14 @@ A análise de dados permite entender melhor o perfil dos clientes e tomar decis�
 ---
 
 📁 Projeto desenvolvido como prática de análise de dados com Pandas.
+
+## 📈 Possíveis melhorias futuras
+
+- Análise com mais dados reais
+- Criação de gráficos para visualização
+- Uso de bibliotecas como Matplotlib ou Seaborn
+- Integração com dashboards
+
+## 👩‍💻 Sobre o projeto
+
+Este projeto faz parte da minha jornada de aprendizado em Ciência de Dados, com foco em desenvolvimento de habilidades práticas para o mercado de trabalho.
